@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "jshint": "^2.13.4",
+    "node": "^17.5.0",
+    "uuid": "^8.3.2"
+  },
+  "name": "hardik",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

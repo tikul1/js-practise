@@ -1,0 +1,7 @@
+"node_modules"
+*.txt
+*.jpeg
+*.jpg
+*.node_modules
+*.md
+node_modules
